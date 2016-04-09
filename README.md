@@ -1,1 +1,1 @@
-# manifestold.github.io
+# Manifesto.github.io
